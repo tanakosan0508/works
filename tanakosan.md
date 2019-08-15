@@ -38,7 +38,9 @@ Protools
  2016/04-
  
  : **株式会社Mercari** 
+ 
 正式入社
+
 + Trust and safety　Unit
 
 +　customer　experience　Unit
