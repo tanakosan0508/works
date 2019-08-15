@@ -43,29 +43,13 @@ Photoshop  Protools
  ・photoshop/Illustrator
  -LP編集や切り抜き対応
  
- 2016/02/01〜
-: **株式会社Mercari** 
-
-インターンシップ
-・Trust and safety　Unit  
- 
- ・商品監視/商品削除/抗弁対応 
-  -タイムラインの違反出品物を削除監視対応
+ 2017/10/01〜
   
-  -お問い合わせ対応
-  
-  ・運用改善
-  
-  -自動化やzappier等を使い工数削減
- 
- 2016/04/01〜
- 
  : **株式会社Mercari** 
  
-正式入社
+・メルカリ　GoBold賞受賞
 
-+ Trust and safety　Unit
-
+ 
 2017/09/01〜
 
  : **株式会社Mercari** 
@@ -89,12 +73,25 @@ Photoshop  Protools
   ・企画や施策のバックアップ
   -CS目線でのアウトプットやプロダクト全体に意見出し
   
-2017/10/01〜
-  
+
+ 2016/04/01〜
+ 
  : **株式会社Mercari** 
  
-・メルカリ　GoBold賞受賞
+正式入社
+・商品監視/商品削除/抗弁対応 
 
+-タイムラインの違反出品物を削除監視対応を行う
+
++ Trust and safety　Unit
+
+ 2016/02/01〜
+: **株式会社Mercari** 
+
+インターンシップ
+・Trust and safety　Unit  
+ 
+ 
  
 ## ポートフォリオ
 
