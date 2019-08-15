@@ -17,6 +17,10 @@
 
 ## 技術スキル
 Photoshop  Protools
+
+##勉強中/興味ある
+swift
+
      
 + DB
  MySQL
