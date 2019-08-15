@@ -100,7 +100,7 @@ Photoshop  Protools
 
 [メルカリチャンネル](https://www.mercari.com/jp/mercari-channel/)
 
--CS立ち上げからデータ分析、コスト削減企画や施策のバックアップ
+-CS立ち上げからデータ分析  コスト削減企画や施策のバックアップ
 
 [Youtube](https://www.youtube.com/channel/UCXOTgkhh_Smrr32e5RO1hyA)
 
