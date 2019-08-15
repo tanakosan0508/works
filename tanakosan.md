@@ -13,8 +13,7 @@
 牡牛座A型です
 
 ## 技術スキル
-Photoshop
-Protools
+Photoshop  Protools
      
 + DB
  MySQL
@@ -30,10 +29,8 @@ Protools
 : **株式会社Mercari** 
 
 インターンシップ
-・Trust and safety　Unit
-
-商品監視/商品削除抗弁対応
-/運用改善/運用作り
+・Trust and safety　Unit  
+  商品監視  商品削除  抗弁対応  運用改善  運用作り
 
  2016/04-
  
@@ -42,9 +39,8 @@ Protools
 正式入社
 
 + Trust and safety　Unit
-
-商品監視/商品削除抗弁対応
-/運用改善/運用作り
+  
+ 商品監視  商品削除抗弁対応  運用改善  運用作り
 
 2017/9/1
 
@@ -53,20 +49,7 @@ Protools
  live Unit
  
 メルカリチャンネル　立ち上げ
-
-・動画監視
-
-・投稿監視
-
-・お問い合わせ対応
-
-・インシデント対応
-
-・SQLデータ分析
-
-・コスト削減
-
-・企画や施策のバックアップ
+  ・動画監視  ・投稿監視  ・お問い合わせ対応  ・インシデント対応  ・SQLデータ分析  ・コスト削減  ・企画や施策のバックアップ
 
 2017/10/1
 
@@ -79,13 +62,7 @@ Protools
  : **株式会社SUPER STUDIO** 
  
  products　management
- ・10商材の管理
- 
- ・インシデント対応
- 
- ・SNS運用マーケティング
- 
- ・クライアント対応
+ ・10商材の管理   ・インシデント対応   ・SNS運用マーケティング   ・クライアント対応
  
  ・photoshop/Illustrator
  
