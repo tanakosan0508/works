@@ -86,7 +86,13 @@ Photoshop  Protools
  : **株式会社SUPER STUDIO** 
  
  products　management
- ・10商材の管理   ・インシデント対応   ・SNS運用マーケティング   ・クライアント対応
+ ・10商材の管理 
+ 
+ ・インシデント対応 
+ 
+ ・SNS運用マーケティング
+ 
+ ・クライアント対応
  
  ・photoshop/Illustrator
  
