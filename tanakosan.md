@@ -30,7 +30,7 @@ Protools
 : **株式会社Mercari** 
 
 インターンシップ
-+ Trust and safety　Unit
+・Trust and safety　Unit
 
 商品監視/商品削除抗弁対応
 /運用改善/運用作り
@@ -43,8 +43,6 @@ Protools
 
 + Trust and safety　Unit
 
-+　customer　experience　Unit
-
 商品監視/商品削除抗弁対応
 /運用改善/運用作り
 
@@ -52,11 +50,23 @@ Protools
 
  : **株式会社Mercari** 
  
+ live Unit
+ 
 メルカリチャンネル　立ち上げ
 
-動画監視/インシデント対応/SQLデータ分析/
-コスト削減/企画や施策のバックアップ
-/お問い合わせ対応
+・動画監視
+
+・投稿監視
+
+・お問い合わせ対応
+
+・インシデント対応
+
+・SQLデータ分析
+
+・コスト削減
+
+・企画や施策のバックアップ
 
 2017/10/1
 
@@ -69,16 +79,28 @@ Protools
  : **株式会社SUPER STUDIO** 
  
  products　management
- １０商材の管理/インシデント対応/SNS運用マーケティング
- photoshop/Illustrator
+ ・10商材の管理
+ 
+ ・インシデント対応
+ 
+ ・SNS運用マーケティング
+ 
+ ・クライアント対応
+ 
+ ・photoshop/Illustrator
  
 ## ポートフォリオ
 
 [メルカリチャンネル](https://www.mercari.com/jp/mercari-channel/)
+
 -CS立ち上げからデータ分析、コスト削減企画や施策のバックアップ
+
 [Youtube](https://www.youtube.com/channel/UCXOTgkhh_Smrr32e5RO1hyA)
+
 -歌ってみたのレコーディングから動画制作
+
 [wancalm](https://www.instagram.com/wan_calm/)
+
 -商品開発/Instagram投稿/ディレクション
 
 ## 技術スキル
@@ -100,14 +122,21 @@ Protools
 
 ## 自己PR
 またゲームとモノづくり、企画が大好きです！
+
 ドリームキャストから全般やってます。
+
 三度の飯よりゲームが好きな時期もありました。
 
 将来はCSで培ったお客様の大切さを忘れないように
+
 プロダクトに入り、いろんな目線をもった感性のある人間になるのと
+
 お客様を喜ばせるようなサービスを作るために
+
 自分が働く/働いている会社のサービスを使って
+
 チームメンバーとプロダクトを通じて３年後までにインターネットを通じて
+
 日本のITサービスに貢献したいです。
 
 
