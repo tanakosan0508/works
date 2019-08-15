@@ -29,7 +29,7 @@ Photoshop  Protools
 
  : **株式会社SUPER STUDIO** 
  
- Productsmanagement
+ プロダクトマネジメント（PM）
  
  -10商材の管理/インシデント対応
  -請求管理
