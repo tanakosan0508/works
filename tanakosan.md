@@ -44,6 +44,7 @@ Photoshop  Protools
  -商標権獲得や継続、トラブル対応
  
  ・photoshop/Illustrator
+
  -LP編集や切り抜き対応
  
  2017/10/01〜
@@ -62,9 +63,11 @@ Photoshop  Protools
 メルカリチャンネル　立ち上げ
 
   ・動画監視/投稿監視 
+
   -動画監視や投稿監視を担当
   
   ・お問い合わせ対応  
+
   -お客様のお問い合わせ対応
   
   ・インシデント対応  
@@ -82,11 +85,13 @@ Photoshop  Protools
  : **株式会社Mercari** 
  
 正式入社
+
++ Trust and safety　Unit
+
 ・商品監視/商品削除/抗弁対応 
 
 -タイムラインの違反出品物を削除監視対応を行う
 
-+ Trust and safety　Unit
 
  2016/02/01〜
 : **株式会社Mercari** 
@@ -138,6 +143,5 @@ Photoshop  Protools
 自分が働く/働いている会社のサービスを使って
 チームメンバーとプロダクトを通じて３年後までにインターネットを通じて
 日本のITサービスに貢献したいです。
-
 
 
