@@ -1,4 +1,3 @@
-@@ -1,31 +1,30 @@
 # 田中優希
 
 
@@ -9,7 +8,7 @@
 
 ## 要約
 199５年５月８日生まれ
-満２４才になります。牡牛座A型です。
+満２４才になります牡牛座A型です
 
 ## 技術スキル
 Photoshop
@@ -29,35 +28,42 @@ Protools
 : **株式会社Mercari** 
 インターンシップ
 + Trust and safety　Unit
-+　customer　experience　Unit
-商品監視/商品削除抗弁対応/運用改善/運用作り
+
+商品監視/商品削除抗弁対応
+/運用改善/運用作り
 
  2016/04-
  : **株式会社Mercari** 
 正式入社
 + Trust and safety　Unit
+
 +　customer　experience　Unit
+
 商品監視/商品削除抗弁対応
 /運用改善/運用作り
 
 2017/9/1
  : **株式会社Mercari** 
 メルカリチャンネル　立ち上げ
+
 動画監視/インシデント対応/SQLデータ分析/
 コスト削減/企画や施策のバックアップ
 /お問い合わせ対応
 
 2017/１０/1
  : **株式会社Mercari** 
+ 
 メルカリ　GoBold賞受賞
 
 2019/01/01〜
  : **株式会社SUPER STUDIO** 
+ 
  products　management
  １０商材の管理/インシデント対応/SNS運用マーケティング
  photoshop/Illustrator
  
 ## ポートフォリオ
+
 [メルカリチャンネル](https://www.mercari.com/jp/mercari-channel/)
 -CS立ち上げからデータ分析、コスト削減企画や施策のバックアップ
 [Youtube](https://www.youtube.com/channel/UCXOTgkhh_Smrr32e5RO1hyA)
@@ -79,6 +85,7 @@ Protools
 
 20１４-2016
 :   **デジタルアーツ専門学校**　ミュージックスタッフ学科 
+
 
 
 ## 自己PR
