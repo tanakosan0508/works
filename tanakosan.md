@@ -18,12 +18,11 @@
 ## 技術スキル
 Photoshop  Protools
 
-## 勉強中/興味ある
-swift
-
-     
 + DB
  MySQL
+
+## 勉強中/興味ある
+swift
 
 ## 語学スキル
 
