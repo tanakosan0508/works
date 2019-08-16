@@ -1,12 +1,9 @@
 # 田中優希
 
 
- > [wantedly](https://www.wantedly.com/users/49281110)
- 
- > [note](https://note.mu/tanakosan0508)
- 
- >[facebook](https://www.facebook.com/profile.php?id=100005865303362)
- 
+ > [wantedly](https://www.wantedly.com/users/49281110)  
+ > [note](https://note.mu/tanakosan0508)  
+ >[facebook](https://www.facebook.com/profile.php?id=100005865303362)  
  >[Github](https://github.com/tanakosan0508)
 
 ## 要約
