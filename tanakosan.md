@@ -41,15 +41,15 @@ swift
  【デザイン】  
  -photoshopを使いLP編集
  
- 2017/10/01〜　　
- **株式会社Mercari** 
+ 2017/10/01〜  
  
-・メルカリ　GoBold賞受賞
+ **株式会社Mercari**  
+ ・メルカリ　GoBold賞受賞
+ 【400人の中から選ばれました】　　
  
-2017/09/01〜  
+ 2017/09/01〜  
 
-**株式会社Mercari** 
- 
+ **株式会社Mercari**  
  live Unit
  
 メルカリチャンネル立ち上げ  
@@ -89,7 +89,7 @@ swift
 
 [wancalm](https://www.instagram.com/wan_calm/)
 
--商品開発/Instagram投稿/ディレクション
+-商品開発からInstagram投稿、ディレクションまでワンオペで行う。
 
 ## 学歴
 
