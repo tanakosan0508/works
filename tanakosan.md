@@ -68,12 +68,13 @@ swift
  : **株式会社Mercari** 
  
 正式入社　　
-【Trust and safety　Unit】  
-・商品監視/商品削除/抗弁対応  
+【Trust and safety Unit】  
+-商品監視/商品削除/抗弁対応  
 -タイムラインの違反出品物を削除監視対応を行う。
 
  2016/02/01〜
-: **株式会社Mercari**  
+ **株式会社Mercari** 
+ 
 インターンシップ　
 
 ## ポートフォリオ
