@@ -49,6 +49,7 @@ swift
  
  2017/09/01〜2018/12/31  
  **株式会社Mercari**  
+ 
  CustomerService/Live Unit/メルカリチャンネル立ち上げメンバー  
  
  【CS対応】  
@@ -62,6 +63,7 @@ swift
 -CS目線でのアウトプットやプロダクト全体に意見出し
   
  2016/04/01〜2017/09/01  
+ 
  **株式会社Mercari** 
  
  【Trust and safety Unit】  
