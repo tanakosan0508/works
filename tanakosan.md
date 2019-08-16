@@ -12,8 +12,6 @@
 ## 要約
 1995年5月8日生まれ
 
-24才になります
-
 ## 技術スキル
 Photoshop/Protools
 Illustrator
@@ -22,7 +20,7 @@ Illustrator
 
  MySQL
 
-## 使えるwiki関連
+## 使える開発関連
 ・JIRA ・Confluence
 ・Redmine ・backlog
 
