@@ -13,13 +13,19 @@
 1995年5月8日生まれ
 
 24才になります
-牡牛座A型です
 
 ## 技術スキル
-Photoshop  Protools
+Photoshop/Protools
+Illustrator
 
-+ DB
+## DB
+
  MySQL
+
+## 使えるwiki関連
+・JIRA ・Confluence
+・Redmine ・backlog
+
 
 ## 勉強中/興味ある
 swift
