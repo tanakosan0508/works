@@ -3,8 +3,9 @@
 
  > [wantedly](https://www.wantedly.com/users/49281110)   
  >[facebook](https://www.facebook.com/profile.php?id=100005865303362)  
- >[Github](https://github.com/tanakosan0508)　　
+ >[Github](https://github.com/tanakosan0508)  
  >[note](https://note.mu/tanakosan0508)
+
 
  
 
