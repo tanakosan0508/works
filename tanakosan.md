@@ -88,7 +88,7 @@ swift
 
 -CS立ち上げからデータ分析  コスト削減企画や施策のバックアップ
 
-[Youtube](https://www.youtube.com/channel/UCXOTgkhh_Smrr32e5RO1hyA)
+[Youtube](https://www.youtube.com/channel/UCXOTgkhh_SmRO1hyA)
 
 -歌ってみたのレコーディングから動画制作
 
