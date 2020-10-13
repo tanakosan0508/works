@@ -14,15 +14,15 @@
 
 ## 技術スキル
 Photoshop/Protools  
-Illustrator
+Illustrator/figmaで簡単なモック作り
 
-## DB  
-MySQL  
+
 ## 使える開発関連
 ・JIRA   
 ・Confluence  
 ・Redmine   
-・backlog    
+・backlog  
+・slack
 ## 勉強中/興味ある　　
 swift  
 ## 語学スキル　　
@@ -35,12 +35,13 @@ swift
 
 **株式会社MAMORIO**　　
 
-PDM（プロジェクトマネジメント）　　
+PDM（プロジェクトマネジメント/開発管理/全部署との調整/スクラム開発）　　
 ディレクター  
 QA  
 採用担当（スカウト/面接担当）  
 UI/UX改善  
 SNS運用/企画ディレクター
+
 
 
 2019/01/01〜
